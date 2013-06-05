@@ -39,3 +39,14 @@ public class ShellSort
         return array;
     }
 }
+
+
+
+/**Console:
+
+
+[111, 3, 5, 7, 8, 0, 2, 4, 6]
+[0, 2, 3, 4, 5, 6, 7, 8, 111]
+
+
+ */
