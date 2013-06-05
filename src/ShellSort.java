@@ -33,7 +33,7 @@ public class ShellSort
         }
         
         /**
-        * all sets h-sorted, now decrease set size
+        * all sets gap-sorted, now decrease set size
         */
         gap = gap / 3;
         return array;
