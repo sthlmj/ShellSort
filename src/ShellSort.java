@@ -1,3 +1,12 @@
+/* 
+ * ShellSort
+ * Labb 1 Uppgift 9
+ * 
+ * Beskriv med ord och illustrera med exempel heltal sortering shellsort.
+ *  
+ */
+
+
 import java.util.Arrays;
 
 public class ShellSort 
@@ -7,7 +16,7 @@ public class ShellSort
     	/**
     	 * Make an array and prints array representaion
     	 */
-        int[] array = {111,3,5,7,8,0,2,4,6};
+        int[] array = {111,3,5,7,8,0,2,4,6};	//array here
         System.out.println( Arrays.toString(array) ); 
         System.out.println( Arrays.toString(shellSort(array)) );
     }
