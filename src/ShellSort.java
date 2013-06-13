@@ -1,8 +1,8 @@
 /* 
  * ShellSort
- * Labb 1 Uppgift 9
+ * L1 U9
  * 
- * Beskriv med ord och illustrera med exempel heltal sortering shellsort.
+ * heltal sortering shellsort.
  *  
  */
 
